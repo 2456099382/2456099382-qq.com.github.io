@@ -1,0 +1,13 @@
+#pages {
+  overflow: hidden;
+}
+#pages .page {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding-top: 0.98rem;
+  box-sizing: border-box;
+  z-index: 0;
+}
